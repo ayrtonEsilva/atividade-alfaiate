@@ -1,0 +1,351 @@
+.container{
+    align-items: center;
+    width: min-content; 
+    margin-left: 255px;
+    height: min-content;
+
+}
+
+
+
+
+
+
+
+
+
+.menualto{
+    border:solid 1px rgb(237, 237, 237) ;
+    height: 50px;
+    background-color: rgb(237, 237, 237);
+}
+.bi-list{
+    width: 25px;
+    display: flex;
+    font-size: 25px;
+    
+    margin-left: 255px;
+    margin-top: 11px;
+}
+.bi-list:hover{
+    background-color: rgb(202, 202, 202);
+}
+.home{
+    margin-top: -43px;
+    
+    margin-left: 300px;
+    color: brown;
+    width: 90px;   
+    font-size: 20px;
+    
+    border-radius: 5px;
+}
+.home:hover{
+    background-color: rgb(202, 202, 202);
+}
+.pesquisa{
+    display: flex;
+    border:solid 1px rgb(255, 255, 255);
+    background-color: rgb(255, 255, 255);
+    height: 32px;
+    width: 350px;
+    margin-top: -30px;
+    margin-left: 800px;
+    border-radius: 10px;   
+}
+.search{     
+    width: 20px;
+    margin-top: 7px;
+    margin-left: 6px;   
+}
+.sobre2{
+    width: 90px;
+    margin-left: 450px;
+    margin-top: -43px;
+    
+    font-size: 20px;
+    border-radius: 5px;
+}
+.sobre2:hover{
+    background-color: rgb(202, 202, 202);
+}
+.contatos2{
+    width: 160px;
+    margin-left: 600px;
+    margin-top: -22px;
+    font-size: 20px;
+   
+    border-radius: 5px;
+}
+.contatos2:HOVER{
+    background-color: rgb(202, 202, 202);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.alfaiate{
+    border-bottom: solid 1px rgb(211, 211, 211);
+    width: auto;
+    height: 60px   
+}
+.menubaixo{
+    margin-top: 10px;
+    border-bottom: solid 1px rgb(211, 211, 211);
+    display: flex;
+}
+.bi-translate{  
+    font-size: 25px;
+    color: rgb(88, 88, 88);
+    border-radius: 7px;
+    width: 100px;
+}
+.bi-translate:hover{
+    background-color: rgb(235, 235, 235);
+}
+.download{
+    color:rgb(42, 42, 42) ;
+    margin-left: 410px;
+    width: 130px;
+    border-radius: 7px;   
+}
+.download:hover{
+    background-color: rgb(235, 235, 235);
+}
+
+
+.estrela{  
+    width: 100px;        
+    margin-left: 50px;
+    border-radius: 7px;
+}
+.estrela:hover{
+    background-color: rgb(235, 235, 235);
+}
+
+
+.editar{
+    width: 80px;
+    margin-left: 50px;
+    border-radius: 7px;
+    
+}
+.editar:hover{
+    background-color: rgb(235, 235, 235);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.paragrafo-1{
+    border-bottom: solid 1px rgb(211, 211, 211);
+}
+
+
+
+.imagem-1{
+    width: min-content;
+    margin-left: 5px;
+    height: 400px;
+    
+}
+.paragrafo-2{
+    display:f ;
+    width: 60%;
+    font-size: 20px;
+    margin-left: 310px;
+    margin-top: -410px;
+}
+
+.legenda-1{
+    margin-top: -40px;
+    font-size: 12px;
+
+}
+
+
+.imagem-2{
+    width: min-content;
+    margin-top: 70px;
+    margin-left: 5px;
+    
+}
+.paragrafo-3{
+    width: 60%;
+    font-size: 20px;
+    margin-left: 310px;
+    margin-top: -450px;
+}
+.legenda-2{
+    width: 300px;
+    font-size: 12px;
+    margin-top: -70px;
+}
+
+
+.imagem-3{
+    width: min-content;
+    margin-left: 5px;
+    margin-top: 70px;
+}
+.paragrafo-4{
+    width: 60%;
+    font-size: 20px;
+    margin-left: 310px;
+    margin-top: -400px;
+}
+.legenda-3{
+    width: 300px;
+    font-size: 12px;
+    margin-top: -50px;
+}
+
+
+
+.imagem-4{
+    width: min-content;
+    margin-left: 5px;
+    margin-top: 50px;
+
+}
+.paragrafo-5{
+    width: 60%;
+    font-size: 20px;
+    margin-left: 310px;
+    margin-top: -220px;
+}
+.paragrafo-6{
+    width: 95%;
+    font-size: 20px;
+    margin-top: 30px;
+    
+}
+.legenda-4{
+    width: 300px;
+    font-size: 12px;
+    margin-top: -277px;
+}
+
+
+.imagem-5{
+    margin-top: 260px;
+}
+.paragrafo-7{
+    width: 60%;
+    font-size: 20px;
+    margin-left: 310px;
+    margin-top: -230px;  
+}
+.paragrafo-8{
+    width: 95%;
+    font-size: 20px;
+    margin-top: 40px;
+    border-bottom: solid 1px rgb(211, 211, 211);
+}
+.paragrafo-9{
+    font-size: 17px;
+}
+
+
+.video-1{
+    
+    width: min-content;
+    display: flex;
+    flex-direction: column;
+}
+.legenda-5{
+    font-size: 15px;
+    width: 400px;
+}
+
+.video-2{
+    margin-left: 1820px;
+}
+.legenda-6{
+    font-size: 15px;
+    width: 400px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.rodape{
+background-color:rgb(219, 219, 219) ;
+border: solid 1px rgb(190, 190, 200);
+width: auto;
+height: 200px;
+margin-top: px;
+}
+.box{
+width: 500px;
+height: 200px;
+
+margin-left: 450px;
+}
+
+.sobre{
+font-size: 20PX;
+margin-top: 0px;
+margin-left: 210px;
+color: rgb(84, 84, 84)
+}
+.contato{
+font-size: 14px;
+margin-top: px;
+margin-left: 25px;
+color: rgb(35, 35, 35)
+
+}
+.developed{
+margin-left: 210px;
+margin-top: 28px;
+font-size: 14px;
+color: rgb(70, 70, 70);
+
+} 
+p{
+font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+font-family: Arial, Helvetica, sans-serif;
+}
+i{
+font-family: Arial, Helvetica, sans-serif;
+}

@@ -1,0 +1,200 @@
+.container{
+    align-items: center;
+    width: min-content; 
+    margin-left: 255px;
+    height: min-content;
+
+}
+ 
+p{
+font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+font-family: Arial, Helvetica, sans-serif;
+}
+i{
+font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+
+
+
+
+
+
+.menualto{
+    border:solid 1px rgb(237, 237, 237) ;
+    height: 50px;
+    background-color: rgb(237, 237, 237);
+}
+.bi-list{
+    width: 25px;
+    display: flex;
+    font-size: 25px;
+    
+    margin-left: 255px;
+    margin-top: 11px;
+}
+.bi-list:hover{
+    background-color: rgb(202, 202, 202);
+}
+.home{
+    margin-top: -43px;
+    
+    margin-left: 300px;
+    color: brown;
+    width: 90px;   
+    font-size: 20px;
+    
+    border-radius: 5px;
+}
+.home:hover{
+    background-color: rgb(202, 202, 202);
+}
+.pesquisa{
+    display: flex;
+    border:solid 1px rgb(255, 255, 255);
+    background-color: rgb(255, 255, 255);
+    height: 32px;
+    width: 350px;
+    margin-top: -30px;
+    margin-left: 800px;
+    border-radius: 10px;   
+}
+.search{     
+    width: 20px;
+    margin-top: 7px;
+    margin-left: 6px;   
+}
+.sobre2{
+    width: 90px;
+    margin-left: 450px;
+    margin-top: -43px;
+    
+    font-size: 20px;
+    border-radius: 5px;
+}
+.sobre2:hover{
+    background-color: rgb(202, 202, 202);
+}
+.contatos2{
+    width: 160px;
+    margin-left: 600px;
+    margin-top: -22px;
+    font-size: 20px;
+   
+    border-radius: 5px;
+}
+.contatos2:HOVER{
+    background-color: rgb(202, 202, 202);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.alfaiate{
+    border-bottom: solid 1px rgb(211, 211, 211);
+    width: auto;
+    height: 60px   
+}
+.menubaixo{
+    margin-top: 10px;
+    border-bottom: solid 1px rgb(211, 211, 211);
+    display: flex;
+}
+.bi-translate{  
+    font-size: 25px;
+    color: rgb(88, 88, 88);
+    border-radius: 7px;
+}
+.bi-translate:hover{
+    background-color: rgb(235, 235, 235);
+}
+.download{
+    color:rgb(42, 42, 42) ;
+    margin-left: 530px;
+    width: 100px;
+    border-radius: 7px;   
+}
+.download:hover{
+    background-color: rgb(235, 235, 235);
+}
+
+
+.estrela{          
+    margin-left: 50px;
+    border-radius: 7px;
+}
+.estrela:hover{
+    background-color: rgb(235, 235, 235);
+}
+
+
+.editar{
+    margin-left: 50px;
+    border-radius: 7px;
+    
+}
+.editar:hover{
+    background-color: rgb(235, 235, 235);
+}
+
+
+
+
+
+
+
+
+
+
+
+.paragrafo-1{
+    font-size: 20px;
+}
+.rodape{
+    background-color:rgb(219, 219, 219) ;
+    border: solid 1px rgb(190, 190, 200);
+    width: auto;
+    height: 200px;
+    margin-top: px;
+    }
+    .box{
+    width: 500px;
+    height: 200px;
+    
+    margin-left: 450px;
+    }
+    
+    .sobre{
+    font-size: 20PX;
+    margin-top: 0px;
+    margin-left: 210px;
+    color: rgb(84, 84, 84)
+    }
+    .contato{
+    font-size: 14px;
+    margin-top: px;
+    margin-left: 25px;
+    color: rgb(35, 35, 35)
+    
+    }
+    .developed{
+    margin-left: 210px;
+    margin-top: 28px;
+    font-size: 14px;
+    color: rgb(70, 70, 70);
+    
+    } 
